@@ -1,3 +1,1 @@
-# afuckingbotlist
-
-jacob tyrrell owns this software
+ALL CODE THAT IS SUBMITTED TO THIS REPO IS THE PROPERTY OF MR. JACOB TYRRELL
