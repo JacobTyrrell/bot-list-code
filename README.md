@@ -26,7 +26,7 @@ yarn start
 
 ### Information
 
-[Access the project's license here.](/license)
+[Access the project's license here.](/LICENSE)
 
 [Access the project's README here.](/README.md)
 
